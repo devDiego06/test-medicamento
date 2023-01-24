@@ -47,6 +47,9 @@ namespace test_medicamentos
             nombre.Text = "";
             valor.Text = "";
             cantidad.Text = "";
+            Year.Text = "";
+            Mount.Text = "";
+            Day.Text = "";
         }
 
         protected void btnEditar_Click(object sender, EventArgs e)

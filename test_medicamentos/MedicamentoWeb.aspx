@@ -84,7 +84,7 @@
                     <td class="auto-style7">Fecha Recibo</td>
                     <td class="auto-style8">YY<asp:TextBox ID="Year" runat="server" Width="58px"></asp:TextBox>
                         --MM<asp:TextBox ID="Mount" runat="server" Width="24px"></asp:TextBox>
-                        --DD<asp:TextBox ID="Day" runat="server" Width="20px"></asp:TextBox>
+                        --DD<asp:TextBox ID="Day" runat="server" Width="16px"></asp:TextBox>
                     </td>
                     <td class="auto-style9">
                         &nbsp;</td>
